@@ -1,0 +1,12 @@
+{
+  "startUrls": [
+    "https://rumble.com/c/TimcastIRL"
+  ],
+  "maxResults": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
